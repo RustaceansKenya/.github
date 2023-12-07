@@ -1,2 +1,2 @@
-# .github
-Who we are
+#### Profile Repo
+Our Rustaceans Kenya Profile

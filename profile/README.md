@@ -1,12 +1,15 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/RustaceansKenya/Brand-Collateral/master/Logos/RustaceansKenya-Logo.svg" width="40%" height = "auto" />
 
-<!--
+We are the Rust Programming Language community based in Kenya. We aim to increase adoption of Rust programming language through project collaboration and hosting virtual and physical meetups.
 
-**Here are some ideas to get you started:**
+#### Repositories
+- Brand Collateral - [https://github.com/RustaceansKenya/Brand-Collateral](https://github.com/RustaceansKenya/Brand-Collateral)
+- Events - [https://github.com/RustaceansKenya/Events](https://github.com/RustaceansKenya/Events)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+#### Discussions
+1. Events - https://github.com/RustaceansKenya/Events/discussions
+
+#### Projects
+1. Rustaceans Kenya Website and Webapp - [https://github.com/RustaceansKenya/RustaceansKenyaWebapp](https://github.com/RustaceansKenya/RustaceansKenyaWebapp)
+
+More to follow :)
