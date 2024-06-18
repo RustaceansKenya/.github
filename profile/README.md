@@ -13,5 +13,6 @@ We are the Rust Programming Language community based in Kenya. We aim to increas
 #### Projects
 1. [Rustaceans Kenya Webapp](https://github.com/RustaceansKenya/RustaceansKenyaWebapp)
 2. [Embedded Rust](https://github.com/RustaceansKenya/EmbeddedRust)
+3. [Driver Development Book](https://github.com/RustaceansKenya/driver-development-book)
 
 Stay tuned. Stay rusty.
